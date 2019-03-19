@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+
+body {
+    background-color: lightgrey;
+}
+
+#p1 {
+    color: white;
+    font-family: "Pacifico";
+}
+
+#p2 {
+    color: white;
+    font-family: "Pacifico";
+}
+
+#town {
+    color: white;
+    font-family: "Pacifico";
+}
+
+#go {
+    background-color: lightblue;
+    height: 50px;
+    width: 140px;
+}
+
+#box {
+    background-color: white;
+    height: 80px;
+    width: 180px;
+    font-size: 30px;
+    text-align: center
+}
