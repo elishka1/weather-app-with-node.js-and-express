@@ -8,22 +8,27 @@ body {
 #p1 {
     color: white;
     font-family: "Pacifico";
+    position: absolute;
 }
 
 #p2 {
     color: white;
     font-family: "Pacifico";
+    position: absolute;
 }
 
 #town {
     color: white;
     font-family: "Pacifico";
+    position: absolute;
 }
 
 #go {
     background-color: lightblue;
     height: 50px;
     width: 140px;
+    position: absolute;
+    margin-top: 100px
 }
 
 #box {
@@ -31,5 +36,13 @@ body {
     height: 80px;
     width: 180px;
     font-size: 30px;
-    text-align: center
+    text-align: center;
+    position: absolute;
+
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+
 }
